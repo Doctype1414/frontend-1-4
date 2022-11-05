@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header {
+    background-color: #0020F4;
+}
+header image {
+    width: 1195px;
+
+}
+
+li a {
+    color: #FFFFFF;
+}
+
+.contact {
+    background-color: #FFFFFF;
+    color:#171717;
+    border-radius: 28px;
+    padding: 5px;
+    
+}
+section image {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.bout-text {
+    font-size: 16px;
+}
+
+section span {
+    font-size: 28px;
+    color: #171717;
+}
+
+
+
+
+span {
+    background-color: #0A22F4;
+    border-radius: 28px;
+    color: #FFFFFF;
+    
+}
